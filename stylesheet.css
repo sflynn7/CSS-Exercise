@@ -1,0 +1,59 @@
+.tour {
+    font-family: sans-serif;
+}
+
+#currenttournament {
+    background-color: rgb(167, 224, 167);
+}
+
+table {
+    background-color: white;
+}
+a[target] {
+    background-color: yellow;
+}
+
+div {
+    background-color: rgb(136, 213, 238);
+    width: 300px;
+    padding: 10px;
+    border: 10px solid navy;
+    margin: 20px;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: rgb(26, 165, 26);
+}
+
+body {
+    background: rgb(188, 228, 253);
+}
+input[type=text] {
+    width:100px;
+    -webkit-transition: width .35s ease-in-out;
+    transition: width .35s ease-in-out;
+}
+input[type=text]:focus {
+    width: 250px;
+}
+
+footer {
+    background-color: white;
+}
+
+div > p {
+    background-color: rgb(144, 221, 144);
+}
+
+h4, h5 {
+    color: rgb(117, 117, 117);
+}
+
+nav a {
+    padding: 5px;
+    background: rgb(167, 166, 166);
+}
